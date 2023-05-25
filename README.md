@@ -6,7 +6,7 @@ O projeto DjangoFlix é um aplicativo baseado na Netflix, desenvolvido utilizand
 
 <ul>
 <li>Autenticação de Usuário: O DjangoFlix possui um sistema de autenticação de usuário, permitindo que os usuários se cadastrem, façam login e gerenciem suas contas.<li>
-<li>Catálogo de Vídeos: O aplicativo pode oferecer uma ampla variedade de vídeos para os usuários navegarem.</li>
+ <li>Catálogo de Vídeos: O aplicativo pode oferecer uma ampla variedade de vídeos para os usuários navegarem.</li>
 <li>Página do Vídeo: Cada filme possui sua própria página detalhada, que exibe informações como descrição, episódios e a quantidade de visualizações.<li>
 <li>Exibição dos Mais Vistos: O DjangoFlix exibe uma seção com os vídeos mais vistos, destacando os títulos populares entre os usuários</li>
 <li>Exibição dos Vistos por Último: O aplicativo também exibe uma seção com os vídeos vistos mais recentemente pelos usuários, permitindo que eles retornem facilmente ao ponto onde pararam a reprodução e legenda.</li>
