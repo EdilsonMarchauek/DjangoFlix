@@ -2,7 +2,7 @@
 
 O projeto DjangoFlix é um aplicativo baseado na Netflix, desenvolvido utilizando o framework Django em Python. Ele oferece funcionalidades de controle de usuário, pesquisa de vídeos e exibição de conteúdos mais vistos e vistos recentemente. O projeto também utiliza o framework de CSS Tailwind, Bootstrap para estilizar o frontend.
 
-Recursos e Funcionalidades:
+<b>Recursos e Funcionalidades:</b>
 Autenticação de Usuário: O DjangoFlix possui um sistema de autenticação de usuário, permitindo que os usuários se cadastrem, façam login e gerenciem suas contas.
 
 Catálogo de Vídeos: O aplicativo pode oferecer uma ampla variedade de vídeos para os usuários navegarem. 
